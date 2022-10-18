@@ -643,8 +643,8 @@
    .header-logo a {
      display: var(--header-logo-link-display);
      position: var(--header-logo-link-position);
-     width: var(--header-logo-link-top);
-     height: var(--header-logo-link-left);
+     top: var(--header-logo-link-top);
+     left: var(--header-logo-link-left);
    }
    img {
      width: 200px;
