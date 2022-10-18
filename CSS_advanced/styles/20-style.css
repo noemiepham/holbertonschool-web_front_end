@@ -525,9 +525,9 @@
    }
 
    .row::after {
-     content: none;
-     display:contents;
-     float:inherit;
+     content: "";
+     display:table;
+     float:initial;
    }
    
    /* ==========footer======== */
