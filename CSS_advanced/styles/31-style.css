@@ -707,8 +707,8 @@
    }
 /* 31. Add quotes decoration on testimonials */
 .card-testimonial .card-quote::before {
-     content:\201C ;
-     position: relative;
+     content: "\201C" ;
+     position: absolute;
      top: -4.5rem;
      left: -1rem;
      color: #efeded;
