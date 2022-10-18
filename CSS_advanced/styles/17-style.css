@@ -413,7 +413,7 @@ a {
 .card-category {
      color: var(--color-primary);
 }
-section {
+.section {
      padding: var(--section-padding);
 }
 .section-header {
@@ -459,6 +459,6 @@ a:hover {
 a:active {
      background-color: var(--color-light-grey);
 }
-footer {
+.footer {
      padding: var(--footer-padding);
 }
