@@ -604,14 +604,14 @@
    .card-testimonial {
      text-align: center;
    }
-   .card-services .card-avatar {
+   .card-testimonial .card-avatar {
      border-radius: 50%;
      width: 10px;
      height: 10px;
    }
    
   .card-testimonial .card-quote cite {
-     display: inline-block;
+     display: block;
      padding-top: 1rem;
      color: var(--color-primary);
   }
