@@ -524,10 +524,10 @@
      padding: 0.5rem;
    }
 
-   .row::after {
+   .row:after {
      content: none;
      display: none;
-     float:unset
+     float:inherit
    }
    
    /* ==========footer======== */
