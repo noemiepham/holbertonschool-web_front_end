@@ -526,8 +526,8 @@
 
    .row::after {
      content: none;
-     display: table-row;
-     float: none;
+     display: none;
+     float:unset
    }
    
    /* ==========footer======== */
