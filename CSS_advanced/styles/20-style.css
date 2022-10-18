@@ -527,7 +527,7 @@
    .row::after {
      content: "";
      display:table;
-     float:initial;
+     float:none;
    }
    
    /* ==========footer======== */
