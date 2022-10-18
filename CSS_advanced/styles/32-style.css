@@ -733,8 +733,7 @@
 }
 .button:hover {
      transition-duration: var(--transition-duration);
-     transition: background-color 1000ms linear;
-     transition: color 1000ms linear; 
+     transition-property: all;
 }
 .card-work:hover .card-image {
      transition: var(--transition-duration) var(--transition-cubic-bezier);
