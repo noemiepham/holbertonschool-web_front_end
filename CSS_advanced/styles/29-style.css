@@ -647,7 +647,7 @@
      left: var(--header-logo-link-left);
    }
    /* 29. Styling and custom properties for the nav */
-   .nav .nav-link {
+   .nav .nav-link::before {
      content: "";
      position: absolute;
      top: 0;
@@ -656,7 +656,7 @@
      width: 0;
      height: 0,2rem;
    }
-   .nav .nav-link .nav-item:hover{
+   .nav .nav-item:hover .nav-link::before {
      background-color: var(--color-primary);
      width: 100%;
    }
