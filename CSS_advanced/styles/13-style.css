@@ -43,7 +43,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
      color: #161616;
      text-decoration: none;
-     font-style: italic;
 }
 
 .visually-hidden {
@@ -69,6 +68,12 @@ a {
      color: var(--section-title-color);
 }
 
+a:link {
+     font-style: italic;
+}
+a:visited {
+     font-style: italic;
+}
 a:hover {
      text-decoration: underline;
 }
