@@ -9,10 +9,10 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 *::before {
-     box-sizing: content-box;
+     box-sizing: border-box;
 }
 *::after {
-     box-sizing: content-box;
+     box-sizing: border-box;
 }
  html {
      line-height: 1.15; /* 1 */
