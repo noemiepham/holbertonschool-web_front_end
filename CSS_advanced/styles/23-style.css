@@ -552,7 +552,7 @@
      display: block;
    }
    .social-link > svg {
-     background-color: var(--text-color);
+     color: var(--text-color);
    }
    /* dark mode */
 
