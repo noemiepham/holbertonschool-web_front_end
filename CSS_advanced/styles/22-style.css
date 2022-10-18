@@ -11,13 +11,15 @@
  *, *:before, *:after {
      box-sizing: border-box;
    }
-   html [data-theme='dark'] {
+   html  {
      line-height: 1.15; /* 1 */
      -webkit-text-size-adjust: 100%; /* 2 */
      box-sizing: border-box;
-     background-color: #090909;
    }
-   
+
+   [data-theme='dark'] {
+     background-color: var(--color-black);
+   }
    /* Sections
       ========================================================================== */
    
@@ -117,8 +119,8 @@
    /**
     * Add the correct font size in all browsers.
     */
+    small {
    
-   small {
      font-size: 80%;
    }
    
