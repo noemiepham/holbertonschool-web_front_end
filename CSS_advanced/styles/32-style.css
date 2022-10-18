@@ -733,7 +733,9 @@
 }
 .button:hover {
      transition-duration: var(--transition-duration);
-     transition-property: all;
+     color: var(--transition-duration);
+     background-color: var(--transition-duration);
+
 }
 .card-work:hover .card-image {
      transition: var(--transition-duration) var(--transition-cubic-bezier);
