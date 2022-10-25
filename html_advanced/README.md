@@ -1,4 +1,3 @@
-
 # Advanced HTML
 
 -   Novice
@@ -12,7 +11,7 @@ _For this project, we expect you to look at this concept:_
 
 -   [HTML - elements of a web page](https://intranet.hbtn.io/concepts/870)
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221017T035100Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=718a5283fe29c1ab09bb911e236ac01370f7e4345f4d37761a055186a3a2ca72)
+![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221025T113647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=441ebb51c3f14086150df8166f7abd4f017732393c0c16d45af8c2065bb8a77a)
 
 # Welcome!
 
@@ -56,8 +55,8 @@ At the end of this project, you are expected to be able to  [explain to anyone](
 
 ## Sitemap of the project
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221017T035100Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7b6bc8916268b2c76039f00c59699658991f39c9952b6c174958d76db516461d)
+![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221025T113647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1a0b0e3492ecd776c54f7ae9b0f8524503d17105d413a7d54f527403a8f64e2f)
 
 ## Wireframe of  `Techium`  project
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221017T035100Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=24b3334df8b9f29038d9a0f41c17567c8149139c85449f70ff8330bc4bc1122d)
+![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221025T113647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8f1ce3a1bbd6381a3dc8bc54ee351c8637051467c56d4967a4490265f64be2d2)
