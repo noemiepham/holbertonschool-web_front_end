@@ -28,7 +28,7 @@ button {
 
      position: absolute;
 
-     right: 10%
+     right: 25%
 
 }
 
@@ -93,12 +93,11 @@ border-right: solid #DDDDDD 1px;
      opacity: 1;
 }
 
-.location .popover li {
-     margin-left: 10px;
-     font-size: 14px;
+.location .popover li h2 {
+     font-size: 16px;
 }
 
-.amenities ul li{
+.amenities ul {
      margin-left: 20px;
 }
 .amenities:hover ul {
